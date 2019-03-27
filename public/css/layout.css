@@ -1,0 +1,15 @@
+ /*Font*/
+ @font-face {
+      font-family: oleoBold;
+      src: url('../fonts/oleo-script/OleoScript-Bold.ttf')
+ }
+
+ @font-face {
+      font-family: dosisLight;
+      src: url('../fonts/oleo-script/Dosis-Light.otf')
+ }
+
+ body {
+      background-color: lightslategray;
+      background: lightslategray;
+ }
